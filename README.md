@@ -14,7 +14,7 @@ Employee turnover is a major challenge for organizations, especially in high-pre
 The dataset used in this project is the **[IBM HR Analytics Employee Attrition & Performance](https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset
 )** dataset (or your specific dataset name), which includes synthetic data covering employee demographic factors, job roles, satisfaction levels, and attrition status.
 
-## Tableau Dashboard
+## PART 1: TABLEAU ANALYTICS
 
 I built an interactive dashboard focusing on deep-dive analysis, specifically highlighting the vulnerable Sales Representatives group, which suffers from a staggering **39.76%** attrition rate driven by low income, new manager transitions, and low job involvement.
 
@@ -22,3 +22,5 @@ I built an interactive dashboard focusing on deep-dive analysis, specifically hi
 
 ### Preview:
 <img src="images/Tableau_preview.png" width="50%" alt="Tableau Preview">
+
+## PART 2: MACHINE LEARNING PREDICTION
