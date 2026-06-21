@@ -21,5 +21,5 @@ I built an interactive dashboard focusing on deep-dive analysis, specifically hi
 👉 **[View the Live Interactive Dashboard on Tableau Public](https://public.tableau.com/views/Book1_17816785060860/Dashboard1?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**
 
 ### Preview:
-![HR Analytics Dashboard](Tableau_preview.jpg)
+![Tableau Preview](Tableau_preview.jng)
 
